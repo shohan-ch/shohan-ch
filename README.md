@@ -47,13 +47,3 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohan-ch&show_icons=true) 
 
-
-
-<div align='center'  style="display: flex; justify-contect: space-between;">
-
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
-
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
-
-</div>
