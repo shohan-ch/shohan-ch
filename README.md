@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/Mail-shohan889@yahoo.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:shohan889@yahoo.com)
 <br>
 
-<h4 align='center'><samp><strong>Hi there 👋, I am Saifur Rahman Chowdhury (Shohan)</strong></samp></h4>
+<h2 align='center'><samp><strong>Hi there 👋, I am Saifur Rahman Chowdhury (Shohan)</strong></samp></h2>
 <p align='center'> PHP/Laravel developer | Full-stack Developer | Software developer | Web developer</p>
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self-taught software developer also unstopped learner. I have evolved into a Full Stack Developer career path, and loves working with cutting edge tools and technologies.</p>
