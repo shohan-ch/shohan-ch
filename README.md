@@ -55,6 +55,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 `Responsive web design`, `DOM`, `Styled Components`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
+<h3 align='center'><strong>Portfolio🌐</a></strong></h3>
+
 🤓 **Interested:** <br>
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
@@ -62,8 +64,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohan-ch)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohan-ch&show_icons=true)  
+
 
