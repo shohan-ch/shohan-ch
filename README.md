@@ -123,9 +123,9 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 <div  style="display: flex; justify-contect: space-between;">
 
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='100'/>
+<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
 
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='100'/>
-<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='100'/>
+<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
+<img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' width='200'/>
 
 </div>
