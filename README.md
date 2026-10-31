@@ -1,6 +1,6 @@
 # Hi, I'm Shohan 👋
 
-I'm a **Full Stack Developer** with 5+ years of experience building production-ready web and mobile applications.
+I'm a **Full Stack Developer** with 5+ years of experience building web and mobile applications.
 
 I enjoy turning ideas into reliable, scalable products and working across the stack—from creating clean user interfaces to designing APIs, databases, and real-time features.
 
@@ -20,4 +20,4 @@ I'm currently **open to new opportunities, challenging projects, and collaborati
 
 📩 **Email:** **shohan889@yahoo.com**
 
-**Have an idea or a project in mind? Let's talk and build something great together. 🚀**
+## Have an idea or a project in mind? Let's talk and build something great together. 🤝
