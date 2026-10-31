@@ -1,11 +1,3 @@
-
-
-
-<h1 align='center'><samp><strong>Hi there 👋, I am Shyfur Shohan </strong></samp></h1>
-<p align='center'>Full-stack Developer | Software developer | Web developer</p>
-
-
-
 # Hi, I'm Shohan 👋
 
 I'm a **Full Stack Developer** with 5+ years of experience building production-ready web and mobile applications.
