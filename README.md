@@ -6,12 +6,46 @@ I enjoy turning ideas into reliable, scalable products and working across the st
 
 ### What I work with
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Redux, MUI, Ant Design
-- **Mobile:** React Native
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Database:** PostgreSQL, MySQL, SQL Server
-- **Tools & Practices:** Git, GitHub Actions, CI/CD, Jira, Agile, WebSockets, Redis
-- **AI-Assisted Development:** GitHub Copilot, Claude, and modern AI development workflows
+/**
+ * @author Shohan
+ * @role Full Stack Developer
+ * @experience 5+ Years
+ */
+
+const shohan = {
+  👨‍💻 profile: {
+    role: "Full Stack Developer",
+    experience: "5+ years",
+  },
+
+  🚀 expertise: {
+    frontend: ["React", "Next.js", "TypeScript", "Redux"],
+    mobile: ["React Native"],
+    backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+    database: ["PostgreSQL", "MySQL", "SQL Server"],
+  },
+
+  🛠️ toolkit: [
+    "Git",
+    "GitHub Actions",
+    "CI/CD",
+    "Jira",
+    "WebSockets",
+    "Redis",
+  ],
+
+  🤖 aiDevelopment: [
+    "GitHub Copilot",
+    "Claude",
+    "AI-Assisted Workflows",
+  ],
+
+  🎯 interests: [
+    "Scalable Applications",
+    "Clean Architecture",
+    "Problem Solving",
+  ],
+};
 ---
 
 ### 🤝 Let's Connect
