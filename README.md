@@ -56,9 +56,7 @@ const shohan = {
 
 ### 🤝 Let's Connect
 
-Always interested in **challenging projects and opportunities** to build reliable software that solves real-world problems.
-
-Alwayes interested in **Full Stack Developer opportunities, freelance projects, and meaningful collaborations.** I enjoy sharing ideas, solving real-world problems, and building reliable software that makes a difference.
+Always interested in **Full Stack Developer opportunities, freelance projects, and meaningful collaborations.** I enjoy sharing ideas, solving real-world problems, and building reliable software that makes a difference.
 
 📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
 
