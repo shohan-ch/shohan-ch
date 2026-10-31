@@ -1,4 +1,4 @@
-### 👋 Hello, dudes!
+### 👋 Hello, folks!
 
 I'm Shohan, someone who has fallen in love with **JavaScript** ❤️. Wherever my cursor moves, JavaScript is right there, hugging me! 😂
 
@@ -62,3 +62,22 @@ Always interested in **challenging projects and opportunities** to build reliabl
 📩 **Email:** **shohan889@yahoo.com**
 
 ##### Have an idea or a project in mind? Let's talk and build something great together. 🎉
+
+
+### 🤝 Let's Connect
+
+Always up for **challenging projects, exciting opportunities, and collaborations**. I love turning ideas into working software (and occasionally arguing with bugs along the way). 😂
+
+📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
+
+🔗 **LinkedIn:** [in](www.linkedin.com/in/shyfur-shohan)
+
+💼 **LinkedIn:** [Let's connect on LinkedIn](www.linkedin.com/in/shyfur-shohan)
+
+##### Got an idea or a project in mind? Let's turn some coffee ☕ into code and build something awesome! 🚀
+
+
+
+
+
+add linkdedin icon like logo also give me 5 different
