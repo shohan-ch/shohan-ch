@@ -59,12 +59,8 @@ const shohan = {
 Always interested in **challenging projects and opportunities** to build reliable software that solves real-world problems.
 
 📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
+
 💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/shyfur-shohan/)
 
+
 ##### Got an idea or a project in mind? Let's talk and build something great together. 🎉
-
-
-
-
-
-add linkdedin icon like logo also give me 5 different
