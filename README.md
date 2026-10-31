@@ -6,26 +6,30 @@ I enjoy turning ideas into reliable, scalable products and working across the st
 
 ### What I work with
 
+
+### 👨‍💻 Developer Profile
+
+```javascript
 /**
  * @author Shohan
  * @role Full Stack Developer
- * @experience 5+ Years
+ * @experience 5+ years
  */
 
 const shohan = {
-  👨‍💻 profile: {
+  profile: {
     role: "Full Stack Developer",
     experience: "5+ years",
   },
 
-  🚀 expertise: {
+  expertise: {
     frontend: ["React", "Next.js", "TypeScript", "Redux"],
     mobile: ["React Native"],
     backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
     database: ["PostgreSQL", "MySQL", "SQL Server"],
   },
 
-  🛠️ toolkit: [
+  toolkit: [
     "Git",
     "GitHub Actions",
     "CI/CD",
@@ -34,18 +38,20 @@ const shohan = {
     "Redis",
   ],
 
-  🤖 aiDevelopment: [
+  aiDevelopment: [
     "GitHub Copilot",
     "Claude",
     "AI-Assisted Workflows",
   ],
 
-  🎯 interests: [
+  interests: [
     "Scalable Applications",
     "Clean Architecture",
     "Problem Solving",
   ],
 };
+```
+
 ---
 
 ### 🤝 Let's Connect
