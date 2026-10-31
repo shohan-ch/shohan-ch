@@ -12,9 +12,12 @@ I enjoy turning ideas into reliable, scalable products and working across the st
 - **Database:** PostgreSQL, MySQL, SQL Server
 - **Tools & Practices:** Git, GitHub Actions, CI/CD, Jira, Agile, WebSockets, Redis
 - **AI-Assisted Development:** GitHub Copilot, Claude, and modern AI development workflows
+---
 
-I'm also interested in **Open Source**, developer tools, and exploring how **AI can improve the way we build software**.
+### 🤝 Open to New Opportunities
 
-I’m always looking for new challenges, opportunities to learn, and meaningful products to build.
+I'm currently **open to new opportunities, challenging projects, and collaborations** where I can contribute my experience, learn new things, and build meaningful software.
 
-**Let's build something useful. 🚀**
+📩 **Email:** **your-email@example.com**
+
+**Have an opportunity or a project in mind? Let's talk and build something great together. 🚀**
