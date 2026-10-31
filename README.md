@@ -21,7 +21,7 @@ const shohan = {
   },
 
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Redux"],
+    frontend: ["React", "Next.js", "TypeScript", "Angular", "Redux", "NgRx"],
     mobile: ["React Native"],
     backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
     database: ["PostgreSQL", "MySQL", "SQL Server"],
