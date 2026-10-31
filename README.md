@@ -18,6 +18,6 @@ I enjoy turning ideas into reliable, scalable products and working across the st
 
 I'm currently **open to new opportunities, challenging projects, and collaborations** where I can contribute my experience, learn new things, and build meaningful software.
 
-📩 **Email:** **your-email@example.com**
+📩 **Email:** **shohan889@yahoo.com**
 
-**Have an opportunity or a project in mind? Let's talk and build something great together. 🚀**
+**Have an idea or a project in mind? Let's talk and build something great together. 🚀**
