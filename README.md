@@ -56,27 +56,12 @@ const shohan = {
 
 ### 🤝 Let's Connect
 
-
 Always interested in **challenging projects and opportunities** to build reliable software that solves real-world problems.
 
 📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
-
-<a href="https://www.linkedin.com/in/shyfur-shohan/" target="_blank" rel="noopener noreferrer">
-  💼 Let's connect on LinkedIn
-</a>
-
-##### Got an idea or a project in mind? Let's talk and build something great together. 🎉
-
-
-### 🤝 Let's Connect
-
-Always up for **challenging projects, exciting opportunities, and collaborations**. I love turning ideas into working software (and occasionally arguing with bugs along the way). 😂
-
-📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
-
 💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/shyfur-shohan/)
 
-##### Got an idea or a project in mind? Let's turn some coffee ☕ into code and build something awesome! 🚀
+##### Got an idea or a project in mind? Let's talk and build something great together. 🎉
 
 
 
