@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** with 5+ years of experience building web and mobi
 I enjoy turning ideas into reliable, scalable products and working across the stack—from creating clean user interfaces to designing APIs, databases, and real-time features.
 
 
-### ⚙️ Under the Hood
+### ☕ Powered by Coffee & Code
 
 ```javascript
 /**
