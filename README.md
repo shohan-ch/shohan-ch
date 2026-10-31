@@ -1,8 +1,10 @@
-# Hi, I'm Shohan 👋
+### 👋 Hello, dudes!
 
-I'm a **Full Stack Developer** with 5+ years of experience building web and mobile applications.
+I'm Shohan, someone who has fallen in love with **JavaScript** ❤️. Wherever my cursor moves, JavaScript is right there, hugging me! 😂
 
-I enjoy turning ideas into reliable, scalable products and working across the stack—from creating clean user interfaces to designing APIs, databases, and real-time features.
+From **frontend to backend**, and even in **mobile development**, JavaScript just refuses to leave me alone!
+
+**Do you love JavaScript too?** ❤️
 
 
 ### ☕ Powered by Coffee & Code
