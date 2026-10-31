@@ -70,7 +70,7 @@ Always up for **challenging projects, exciting opportunities, and collaborations
 
 📩 **Email:** [shohan889@yahoo.com](mailto:shohan889@yahoo.com)
 
-🔗 **LinkedIn:** [in](www.linkedin.com/in/shyfur-shohan)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" width="18" height="18" /> **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shyfur-shohan/)
 
 💼 **LinkedIn:** [Let's connect on LinkedIn](www.linkedin.com/in/shyfur-shohan)
 
