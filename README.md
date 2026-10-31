@@ -5,3 +5,24 @@
 <p align='center'>Full-stack Developer | Software developer | Web developer</p>
 
 
+
+# Hi, I'm Shohan 👋
+
+I'm a **Full Stack Developer** with 5+ years of experience building production-ready web and mobile applications.
+
+I enjoy turning ideas into reliable, scalable products and working across the stack—from creating clean user interfaces to designing APIs, databases, and real-time features.
+
+### What I work with
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Redux, MUI, Ant Design
+- **Mobile:** React Native
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Database:** PostgreSQL, MySQL, SQL Server
+- **Tools & Practices:** Git, GitHub Actions, CI/CD, Jira, Agile, WebSockets, Redis
+- **AI-Assisted Development:** GitHub Copilot, Claude, and modern AI development workflows
+
+I'm also interested in **Open Source**, developer tools, and exploring how **AI can improve the way we build software**.
+
+I’m always looking for new challenges, opportunities to learn, and meaningful products to build.
+
+**Let's build something useful. 🚀**
