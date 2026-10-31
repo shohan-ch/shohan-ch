@@ -14,9 +14,10 @@ I enjoy turning ideas into reliable, scalable products and working across the st
 - **AI-Assisted Development:** GitHub Copilot, Claude, and modern AI development workflows
 ---
 
-### 🤝 Open to New Opportunities
+### 🤝 Let's Connect
 
-I'm currently **open to new opportunities, challenging projects, and collaborations** where I can contribute my experience, learn new things, and build meaningful software.
+
+Always interested in **challenging projects and opportunities** to build reliable software that solves real-world problems.
 
 📩 **Email:** **shohan889@yahoo.com**
 
